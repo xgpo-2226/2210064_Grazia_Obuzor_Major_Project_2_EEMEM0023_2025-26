@@ -2,6 +2,6 @@
 Supplementary Code and Appendix Material for Major Project 2 
 
 
-<img src="/../img/tcl_console_in_vivado.png" alt="Screenshot of the TCL console line withing Start Page of VIVADO application" height="400">
+<img src="/../img/tcl_console_in_vivado.png" alt="Screenshot of the TCL console line withing Start Page of VIVADO application" width="400">
 
 ![Screenshot of the TCL console line withing Start Page of VIVADO application](img/tcl_console_in_vivado.png)
