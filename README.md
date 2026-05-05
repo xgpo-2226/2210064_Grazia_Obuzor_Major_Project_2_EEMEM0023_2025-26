@@ -77,12 +77,11 @@ pip install pyserial numpy scipy pyqtgraph PyQt5 sounddevice
 4. Run: **1_Tachogram_View.py** etc.
 
 
-<<<<<<< HEAD
 
 
 
-=======
->>>>>>> 14c494e847b22776e0e75d6113d80a1db78435bb
+
+
 <!--
 ## Key design parameters
 
