@@ -22,8 +22,6 @@ ECG-derived respiration (EDR), and breath hold (`apnoea`) detection.
 │   ├── 1_Tachogram_View.py      # Main 4-row dashboard (sinus reading, tachograms + WPSD + `apnoea` flagger)
 │   ├── 2_Posture_Change_Experiment.py   # 3-phase posture comparison
 │   └── 3_HRR_Experiment.py  # 5-min HR/BR recovery recorder
-<!-- ├── docs/
-│   └── ...                     # Project report, datasheets, references -->
 ├── ecg_fpga_final_implementation.tcl          # Vivado project recreation script
 └── README.md                   # This file
 ```
